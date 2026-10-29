@@ -1,12 +1,13 @@
-# Pengumpulan-All-Modul-MobPrac
-Modul 1 - 11
-Hi 👋, I'm Ivan.
+# 👋 Halo, Saya Ivan Ghozali!! 🤓☝️
 
-Saya Mahasiswa Teknik Informatika.
+## 📋 Informasi Pribadi
+- *Nama*: Ivan Ghozali
+- *NIM*: 240605110185
+- *Kelas Praktikum*: E
 
 💻Berikut ini beberapa modul saya dari 1 hingga 11:
 
-| No | Minggu<br>ke | Praktikum<br>ke | Topik | Modul | Template<br>Laporan |
+| No | Minggu<br>ke | Praktikum<br>ke | Topik | Modul | Repository |
 |:---:|:---:|:---:|---|:---:|:---:|
 | 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](#) | [Template laporan](#) |
 | 2 | 01 | 01 | Widget Row dan Column | [Modul 02](#) | [Template laporan](#) |
