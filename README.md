@@ -20,4 +20,4 @@
 | 9 | 06 | 06 | StatefulWidget | [Modul 09](#) | [laporan](#) |
 | 10 | 07 | 07 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](#) | [laporan](#) |
 | 11 | 08 | 08 | Manajemen State dengan GetX | [Modul 11](#) | [laporan](#) |
-| 12 | 09 | 09 | Tekken 8 Moveset (UTS) | [UTS](#https://github.com/vanneedtofun/Tekken-8-Dataframe-Moveset) | [laporan](#) |
+| 12 | 09 | 09 | Tekken 8 Moveset (UTS) | [UTS](https://github.com/vanneedtofun/Tekken-8-Dataframe-Moveset) | [laporan](#) |
