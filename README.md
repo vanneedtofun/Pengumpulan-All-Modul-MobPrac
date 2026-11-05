@@ -18,6 +18,7 @@
 | 7 | 04 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](#) | [laporan](#) |
 | 8 | 05 | 05 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](#) | [laporan](#) |
 | 9 | 06 | 06 | StatefulWidget | [Modul 09](#) | [laporan](#) |
-| 10 | 07 | 07 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](#) | [laporan](#) |
-| 11 | 08 | 08 | Manajemen State dengan GetX | [Modul 11](#) | [laporan](#) |
+| 10 | 07 | 07 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/vanneedtofun/Modul10-Game-App) | [laporan](#) |
+| 11 | 08 | 08 | Manajemen State dengan GetX | [Modul 11](https://github.com/vanneedtofun/Modul11-Tasbih-getx) | [laporan](#) |
 | 12 | 09 | 09 | Tekken 8 Moveset (UTS) | [UTS](https://github.com/vanneedtofun/Tekken-8-Dataframe-Moveset) | [laporan](https://drive.google.com/file/d/1evhDabhhhrZc9mWbbv3-Q8euHVX5QpG3/view?usp=sharing) |
+| 13 | 10 | 10 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://github.com/vanneedtofun/Modul12-Geolocate) | [laporan](https://drive.google.com/file/d/1iPG6QHE7a1sw-T9P_mfhvuthXOQIfFf_/view?usp=sharing) |
