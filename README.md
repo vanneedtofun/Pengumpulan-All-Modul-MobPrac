@@ -5,7 +5,7 @@
 - *NIM*: 240605110185
 - *Kelas Praktikum*: E
 
-💻Berikut ini beberapa modul saya dari 1 hingga UTS:
+💻Berikut ini beberapa modul saya dari 1 hingga 13:
 
 | No | Minggu<br>ke | Praktikum<br>ke | Topik | Modul | Repository |
 |:---:|:---:|:---:|---|:---:|:---:|
