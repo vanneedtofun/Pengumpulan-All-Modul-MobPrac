@@ -22,3 +22,4 @@
 | 11 | 08 | 08 | Manajemen State dengan GetX | [Modul 11](https://github.com/vanneedtofun/Modul11-Tasbih-getx) | [laporan](https://drive.google.com/file/d/1BY9ZQcYDQshcInIQOHmpBAZgwJE2wDz6/view?usp=drive_link) |
 | 12 | 09 | 09 | Tekken 8 Moveset (UTS) | [UTS](https://github.com/vanneedtofun/Tekken-8-Dataframe-Moveset) | [laporan](https://drive.google.com/file/d/1evhDabhhhrZc9mWbbv3-Q8euHVX5QpG3/view?usp=sharing) |
 | 13 | 10 | 10 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://github.com/vanneedtofun/Modul12-Geolocate) | [laporan](https://drive.google.com/file/d/1iPG6QHE7a1sw-T9P_mfhvuthXOQIfFf_/view?usp=sharing) |
+| 14 | 11 | 11 | implementasi CRUD pada Flutter  | [Modul 13](https://github.com/vanneedtofun/Modul13-CRUD-API) | [laporan](#) |
